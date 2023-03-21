@@ -1,0 +1,15 @@
+C:\Users\mateo\OneDrive\Desktop\work\Study\testDb\CapaPersona\bin\Debug\net6.0\CapaPersona.deps.json
+C:\Users\mateo\OneDrive\Desktop\work\Study\testDb\CapaPersona\bin\Debug\net6.0\CapaPersona.dll
+C:\Users\mateo\OneDrive\Desktop\work\Study\testDb\CapaPersona\bin\Debug\net6.0\CapaPersona.pdb
+C:\Users\mateo\OneDrive\Desktop\work\Study\testDb\CapaPersona\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\mateo\OneDrive\Desktop\work\Study\testDb\CapaPersona\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\mateo\OneDrive\Desktop\work\Study\testDb\CapaPersona\obj\Debug\net6.0\CapaPersona.csproj.AssemblyReference.cache
+C:\Users\mateo\OneDrive\Desktop\work\Study\testDb\CapaPersona\obj\Debug\net6.0\CapaPersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\OneDrive\Desktop\work\Study\testDb\CapaPersona\obj\Debug\net6.0\CapaPersona.AssemblyInfoInputs.cache
+C:\Users\mateo\OneDrive\Desktop\work\Study\testDb\CapaPersona\obj\Debug\net6.0\CapaPersona.AssemblyInfo.cs
+C:\Users\mateo\OneDrive\Desktop\work\Study\testDb\CapaPersona\obj\Debug\net6.0\CapaPersona.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Desktop\work\Study\testDb\CapaPersona\obj\Debug\net6.0\CapaPersona.csproj.CopyComplete
+C:\Users\mateo\OneDrive\Desktop\work\Study\testDb\CapaPersona\obj\Debug\net6.0\CapaPersona.dll
+C:\Users\mateo\OneDrive\Desktop\work\Study\testDb\CapaPersona\obj\Debug\net6.0\refint\CapaPersona.dll
+C:\Users\mateo\OneDrive\Desktop\work\Study\testDb\CapaPersona\obj\Debug\net6.0\CapaPersona.pdb
+C:\Users\mateo\OneDrive\Desktop\work\Study\testDb\CapaPersona\obj\Debug\net6.0\ref\CapaPersona.dll
